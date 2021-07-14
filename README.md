@@ -2,7 +2,7 @@
 
 This project you can add many pictures, you can store your family photos or all your family members can add pics to this website and this site will work as your simple Family Flickr  😉 
 
-It has been made in Node JS using multer Package and the front-end contains HTML/JS/CSS/BS.
+It has been made in Node JS using Multer Package and the front-end contains HTML/JS/CSS/BS.
 
 Screen Shots:
 ![img111](https://user-images.githubusercontent.com/46710508/125685155-d937ac94-1ea6-4a95-bf1e-5f124751aa49.jpeg)
